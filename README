@@ -1,2 +1,6 @@
-Code will be uploaded soon.
-The repository is currently being prepared and will be available shortly.
+This repository contains the official implementation for the paper:
+
+"Cross-Modal Learning from fMRI to DOT: Leveraging Large-Scale Neuroimaging for fNIRS Decoding"
+
+The codebase is currently being organized, cleaned, and documented for public release.  
+A complete and reproducible version will be available soon.
